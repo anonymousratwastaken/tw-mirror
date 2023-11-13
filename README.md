@@ -1,6 +1,5 @@
 # Mirror
-
-https://mirror.turbowarp.xyz/
+[The mirror can be found here](https://anonymousratwastaken.github.io/tw-mirror/#0)
 
 These are some scripts for making mirrors of [TurboWarp](https://turbowarp.org/).
 
